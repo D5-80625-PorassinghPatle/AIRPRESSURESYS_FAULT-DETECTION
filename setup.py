@@ -23,7 +23,7 @@ def get_requirements():
 
 setup(
     name="sensor",
-    version="0.0.1",
+    version="0.0.3",
     author="poras",
     author_email="poraspatle@gmail.com",
     packages=find_packages(),
