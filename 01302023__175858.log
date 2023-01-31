@@ -1,0 +1,9 @@
+[2023-01-30 17:58:58,432 ] 12 root - INFO - Reading data from database: airpressuresys and collection: sensor
+[2023-01-30 17:59:02,182 ] 14 root - INFO - Found columns: Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2023-01-30 17:59:02,183 ] 16 root - INFO - Dropping column: _id 
+[2023-01-30 17:59:02,421 ] 18 root - INFO - Row and columns in df: (36188, 171)
