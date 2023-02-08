@@ -1,0 +1,10 @@
+[ 2023-02-08 15:01:30,937 ] 16 root - INFO - start of data ingestion process
+[ 2023-02-08 15:01:30,937 ] 17 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> DATA INGESTION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-02-08 15:01:30,937 ] 24 root - INFO - exporting collection data as pandas dataframe
+[ 2023-02-08 15:01:30,937 ] 13 root - INFO - Reading data from database: airpressuresys and collection: sensor
+[ 2023-02-08 15:01:30,940 ] 15 root - INFO - Found columns: Index([], dtype='object')
+[ 2023-02-08 15:01:30,940 ] 19 root - INFO - Row and columns in df: (0, 0)
+[ 2023-02-08 15:01:30,940 ] 28 root - INFO - save the data in feature store
+[ 2023-02-08 15:01:30,940 ] 34 root - INFO - CREATE feature STORE FOLDER IF NOT AVAILABLE
+[ 2023-02-08 15:01:30,941 ] 40 root - INFO - save df to feature store folder
+[ 2023-02-08 15:01:30,942 ] 46 root - INFO - split dataset into train and test set
