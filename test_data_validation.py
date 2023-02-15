@@ -6,6 +6,7 @@ from sensor.entity import config_entity
 from sensor.components.data_ingestion import DataIngestion
 from sensor.components.data_validation import DataValidation
 from sensor import utils
+import numpy as np
 
 
 
