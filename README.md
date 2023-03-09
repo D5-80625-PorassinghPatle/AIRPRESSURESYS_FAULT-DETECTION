@@ -1,6 +1,5 @@
-# neurolab-mongo-python
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+
 
 ### Step 1 - Install the requirements
 
@@ -12,5 +11,4 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
-this is change made in neuro lab
+``
