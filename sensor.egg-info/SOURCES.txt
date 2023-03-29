@@ -4,6 +4,7 @@ sensor/__init__.py
 sensor/config.py
 sensor/exception.py
 sensor/logger.py
+sensor/predictor.py
 sensor/test_data_validation.py
 sensor.egg-info/PKG-INFO
 sensor.egg-info/SOURCES.txt
@@ -21,5 +22,6 @@ sensor/entity/__init__.py
 sensor/entity/artifact_entity.py
 sensor/entity/config_entity.py
 sensor/pipeline/__init__.py
+sensor/pipeline/batch_prediction.py
 sensor/pipeline/training_pipeline.py
 sensor/utils/__init__.py
